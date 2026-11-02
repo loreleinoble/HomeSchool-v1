@@ -93,7 +93,7 @@ After installing the `.deb` or `.rpm`, the app appears in your applications menu
 **Requirements:** [Node.js](https://nodejs.org), [Rust](https://rustup.rs), and [Tauri prerequisites](https://tauri.app/start/prerequisites/)
 
 ```bash
-git clone https://github.com/SkyeVault/HomeSchool-v1.git
+git clone https://github.com/loreleinoble/HomeSchool-v1.git
 cd HomeSchool-v1/apps/homeschool-console
 npm install
 npm run tauri build
